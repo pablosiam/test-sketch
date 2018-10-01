@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D81652CB-32ED-4C98-89A2-FBB7F0002EEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D39AC28D-5EE3-4419-82D1-058476F9242C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8204D374-6A94-484C-B483-46101C5F723B",
+    "height": 48,
+    "width": 320,
+    "x": 20,
+    "y": 221
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Primary-button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D402C05B-9623-42EB-92A9-AAB4A0D55F92",
+      "overrideName": "4C3A5446-23D1-4177-9D2C-E56B0F2FC50B_stringValue",
+      "value": "Jason"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1315210D-2E59-468D-B1BC-E2AFA5F08917",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5B469E1-DF69-414F-8E26-79D40483E41E",
+  "verticalSpacing": 0
+}
