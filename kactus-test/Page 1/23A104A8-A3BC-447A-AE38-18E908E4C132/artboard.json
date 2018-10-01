@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "09ABD47D-37ED-4C36-BD16-E33DDEFD2E6C"
+    },
+    {
+      "class": "text",
+      "id": "928FFE31-4111-4E43-8002-F4DD75613CEF"
     }
   ],
   "name": "Mobile",
