@@ -33,10 +33,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "DE2AC906-3338-46AC-B7D5-11E0B394A90D",
+  "do_objectID": "A71C41F3-4F4C-42E0-8120-43A16350865F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "61DD831D-45AC-41A5-9783-F1D9ABD562FE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,10 +48,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "E56CE8A8-81A1-40A1-BF37-A9ED5BDEB0D2",
     "height": 18,
     "width": 110,
-    "x": 20,
-    "y": 22
+    "x": 230,
+    "y": 328
   },
   "glyphBounds": "{{1, 2}, {103, 12}}",
   "isFixedToViewport": false,
@@ -60,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Esto es una prueba",
+  "name": "Esto es una prueba Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,11 +70,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "27699054-4B72-4212-AC85-512254249338",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E556EF24-EEB1-471B-B4AB-96FD7257E00A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
