@@ -1,7 +1,7 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "52928e20-c5bc-11e8-ac42-0748c973e29c",
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "06D9A03F-FF38-40C8-BA2D-85AF08EAE238",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,40 +14,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 48,
+    "width": 320,
+    "x": 20,
+    "y": 129
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Primary-button2",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "23A104A8-A3BC-447A-AE38-18E908E4C132"
-    },
-    {
-      "class": "artboard",
-      "id": "FFA888AB-8315-443D-9C3D-EDFA036EBEAC"
+      "_class": "overrideValue",
+      "do_objectID": "12AEC0A1-9291-490A-A192-1B49746CD62A",
+      "overrideName": "144FAC68-60AB-4F47-987A-9C8EEDC89D72_stringValue",
+      "value": "amigo"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -56,10 +48,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "C23F9C93-4253-48FD-B098-5E7530F4F487",
+  "verticalSpacing": 0
 }
