@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "09ABD47D-37ED-4C36-BD16-E33DDEFD2E6C",
+  "do_objectID": "902F592C-29E3-44C7-8D86-1E3952FEED97",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EC18B13E-2F03-466E-9DE8-7E86E0F80B65",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "B3262A1D-CB61-4A2C-9DB9-603334D5BA77",
     "height": 48,
     "width": 320,
     "x": 20,
-    "y": 145
+    "y": 439
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Primary-button",
+  "name": "Primary-button Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "do_objectID": "D402C05B-9623-42EB-92A9-AAB4A0D55F92",
       "overrideName": "4C3A5446-23D1-4177-9D2C-E56B0F2FC50B_stringValue",
-      "value": "La kimberly"
+      "value": "Kevin"
     }
   ],
   "resizingConstraint": 63,
@@ -43,6 +45,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "55F29B5F-3DBB-4570-9DEB-8AC11F5699B2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
